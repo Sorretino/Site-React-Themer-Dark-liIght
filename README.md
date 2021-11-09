@@ -1,4 +1,4 @@
-# Web site Desenvolvido em React com Themer Dark sesionStorage
+# Web site Desenvolvido em React com Themer Dark sessionStorage
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
